@@ -25,7 +25,7 @@ An AI-powered personal finance assistant that helps users manage budgets, track 
 - CrewAI (Multi-Agent AI)
 - Google Gemini API
 - Matplotlib
-- NumPy
+
 
 ---
 
